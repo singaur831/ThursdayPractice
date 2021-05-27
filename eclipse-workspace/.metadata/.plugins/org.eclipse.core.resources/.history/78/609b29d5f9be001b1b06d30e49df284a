@@ -1,0 +1,12 @@
+package Collection;
+
+public class Arraylist {
+
+	
+	public static void main(String[] args) {
+	arraylist<String> new arraylist<String>();
+		// TODO Auto-generated method stub
+
+	}
+
+}

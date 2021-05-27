@@ -1,0 +1,23 @@
+
+public class Vehicle {
+	
+	void run()
+	{
+		System.out.println("Vehcile is running");
+	}
+
+	
+
+class Bike2 extends Vehicle{
+	void run()
+	{
+		System.out.println("Bikeis safely running");
+	}
+}
+
+public static void main(String args[])
+{
+	Bike2 v= new Bike2();
+	v.run();
+}}
+}}

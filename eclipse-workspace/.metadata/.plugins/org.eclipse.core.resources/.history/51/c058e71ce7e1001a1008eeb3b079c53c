@@ -1,0 +1,9 @@
+class exception
+{
+	public static void main(String[] args)
+	{
+	String a="gaurav singh is a champaion";
+	System.out.println(a.charAt(29));
+	
+	}
+}

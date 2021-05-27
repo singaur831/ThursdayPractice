@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+
+/**
+ * @author 91703
+ *
+ */
+import java.util.*;
+public class Collection {
+public static void main(String[] args)
+{
+	Vector<String> v= new Vector<String>();
+	v.add("ajay");
+	v.add("pujay");
+	v.add("Depenashi");
+	Iterator<String> itr=v.iterator();
+	while(itr.hashNext())
+	{
+		System.out.println(itr.next());
+	}
+	
+}
+}

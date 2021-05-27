@@ -1,0 +1,10 @@
+package checkingconstrain;
+
+public class classj {
+	
+	public static void main(String args[])
+	{
+		int sum=sum1+sum2;
+	}
+
+}

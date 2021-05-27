@@ -1,0 +1,11 @@
+
+public class Super {
+
+	public int index=1;
+}
+
+class App extends Super
+{
+	public App(int index);
+	index=index;
+}

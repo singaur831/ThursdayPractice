@@ -1,0 +1,18 @@
+	 import java.util.*;
+	 public class Collection12 {
+	public static void main(String[] args)
+	{
+		ArrayList<String> al= new ArrayList<String>();
+		al.add("Mango");
+		al.add("pallavi");
+		al.add("rekha");
+		al.add("pallavi");
+		al.add("pallavi");
+		for(String fruit:al)
+		{
+			System.out.println(fruit);
+		}
+	}
+	 }
+
+
